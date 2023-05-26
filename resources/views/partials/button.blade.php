@@ -1,0 +1,1 @@
+<button type="button" class="btn btn-danger" style="width:300px">Give Me a Wisdom</button>
